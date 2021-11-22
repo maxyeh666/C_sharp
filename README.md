@@ -6,6 +6,15 @@
 
 參考基礎中的範例教學，建立銀行帳戶系統。
 
+### 程式說明
+
+- Program.cs - 主程序
+- BankAccount.cs - 銀行帳戶
+- InterestEarningAccount.cs
+- LineOfCreditAccount.cs
+- GiftCardAccount.cs
+- Transaction.cs
+
 ## 筆記
 - 相較於javascript屬於動態偏向弱型別語言，C#屬於靜態偏向強型別語言，使用尚須先宣告其型態，且大多情況需指定轉換型態，不會像javascript自動轉換。
 - 存取範圍層級
